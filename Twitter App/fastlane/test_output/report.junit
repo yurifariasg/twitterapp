@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='Twitter AppTests.xctest' tests='4' failures='0'>
+  <testsuite name='Twitter_AppTests.TwitterTests' tests='2' failures='0'>
+    <testcase classname='Twitter_AppTests.TwitterTests' name='testExample' time='0.001'/>
+    <testcase classname='Twitter_AppTests.TwitterTests' name='testPerformanceExample' time='0.376'/>
+  </testsuite>
+  <testsuite name='Twitter_AppTests.Twitter_AppTests' tests='2' failures='0'>
+    <testcase classname='Twitter_AppTests.Twitter_AppTests' name='testExample' time='0.000'/>
+    <testcase classname='Twitter_AppTests.Twitter_AppTests' name='testPerformanceExample' time='0.253'/>
+  </testsuite>
+</testsuites>
